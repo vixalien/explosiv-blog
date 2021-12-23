@@ -1,0 +1,19 @@
+{
+  "name": "explosiv-blog",
+  "version": "1.0.0",
+  "description": "Simple blog that uses Explosiv and markdown",
+  "main": "",
+  "scripts": {
+    "build": "explosiv build",
+    "start": "explosiv serve",
+    "dev": "explosiv dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "explosiv": "^2.6.2",
+    "front-matter": "^4.0.2",
+    "marked": "^4.0.7"
+  }
+}

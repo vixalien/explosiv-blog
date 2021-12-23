@@ -1,0 +1,13 @@
+# env
+.env
+
+# explosiv builds
+/_static/
+/out/
+/__explosiv__/
+
+# packages
+/node_modules/
+
+# sublime text files
+*.sublime-*
